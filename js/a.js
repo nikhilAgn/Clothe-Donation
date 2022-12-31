@@ -14,7 +14,7 @@ button.addEventListener('click', () => {
 
     Email.send({
         SecureToken: "d656994b-3698-4c7b-b0d0-d07b606162ce",
-        To: "anoopvipin58@gmail.com",
+        To: "clothdonationdrive2023@gmail.com",
         From: "tresalroks@gmail.com",
         Subject: "Cloth Collection & Donation",
         Body: data

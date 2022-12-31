@@ -378,7 +378,7 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-top: 20px;
+    /* padding-top: 20px; */
 }
 
 .header_bg {
